@@ -17,5 +17,6 @@ public class App
             }
         }.start();
 
+        System.out.println("test 服务器更改");
     }
 }
