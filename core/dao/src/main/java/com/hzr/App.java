@@ -23,5 +23,6 @@ public class App
             System.err.println("i :"+ i);
         }
         System.out.println("1212");
+         System.out.println("我QQ无");
     }
 }
