@@ -10,5 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("test");
+        new Thread(){
+            @Override
+            public void run() {
+                System.out.println("Thread");
+            }
+        }.start();
+
     }
 }
