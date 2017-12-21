@@ -10,5 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("test");
+        for (int i = 0; i < 100; i++) {
+            System.err.println("i :"+ i);
+        }
     }
 }
