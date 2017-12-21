@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="uiuiuii:war">
+    <output-path>$PROJECT_DIR$/core/uiuiuii/target</output-path>
+    <root id="archive" name="uiuitie.war">
+      <element id="artifact" artifact-name="uiuiuii:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/dao/dao.iml" filepath="$PROJECT_DIR$/core/dao/dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hzr.iml" filepath="$PROJECT_DIR$/hzr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/uiuiuii/uiuiuii.iml" filepath="$PROJECT_DIR$/core/uiuiuii/uiuiuii.iml" />
+    </modules>
+  </component>
+</project>
